@@ -1,6 +1,6 @@
 <h1 align="center">Jasper Spilliaert</h1>
 
-<h3 align="center"><u>Programming Languages</u></h3>
+<h2 align="center"><u>Programming Languages</u></h2>
 
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -23,7 +23,7 @@
   </a> 
 </p>
 
-<h3 align="center"><u>DevOps</u></h3>
+<h2 align="center"><u>DevOps</u></h2>
 
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -49,7 +49,7 @@
   </a> 
 </p>
 
-<h3 align="center"><u>Other</u></h3>
+<h2 align="center"><u>Other</u></h2>
 
 <p align="center"> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
