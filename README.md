@@ -1,5 +1,4 @@
 <h1 align="center">Jasper Spilliaert</h1>
-<h3 align="center">System & Network Engineer from Belgium</h3>
 
 <h3 align="center">Programming Languages:</h3>
 
