@@ -34,8 +34,8 @@ tekst
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
   </a> 
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/powershell/powershell-icon.svg" alt="powershell" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/powershell/powershell.svg" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powershell/" alt="powershell" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
