@@ -57,4 +57,4 @@
   </a> 
 </p>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperSpilliaert&layout=compact" alt="Languages" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperSpilliaert&exclude_repo=dsai-jasper&layout=compact" alt="Languages" /> </div>
