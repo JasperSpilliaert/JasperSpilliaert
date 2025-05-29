@@ -1,6 +1,6 @@
 <h1 align="center">Jasper Spilliaert</h1>
 
-![Profile Views](page_ihttps://visitor-badge.glitch.me/badge?id=JasperSpilliaert)
+![Profile Views](page_ihttps://visitor-badge.glitch.me/badge?page_id=JasperSpilliaert)
 
 <p align="center"> Gemotiveerde student Systeem- en Netwerkbeheer met een passie voor DevOps. Mijn expertise omvat het beheer van opslagsystemen, virtualisatie, automatisatie en netwerkbeveiliging. In mijn vrije tijd haal ik energie en focus uit hardlopen en fietsen, en houd ik mezelf daarnaast up-to-date met de laatste innovaties in de IT-wereld. Na mijn studies Toegepaste Informatica zal ik nog verder schakelen naar de Master Industriële wetenschappen: Informatica aan UGent.</p>
 
