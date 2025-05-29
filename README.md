@@ -2,8 +2,6 @@
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=JasperSpilliaert.JasperSpilliaert)
 
-<img src="https://camo.githubusercontent.com/2f2619103b61ea96abf737a26ae600c8a99ecd2e38fe63b98b5fd5aef02e2f70/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d72636c617373696374266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="mrclassict" data-canonical-src="https://komarev.com/ghpvc/?username=mrclassict&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-
 <p align="center"> Gemotiveerde student Systeem- en Netwerkbeheer met een passie voor DevOps. Mijn expertise omvat het beheer van opslagsystemen, virtualisatie, automatisatie en netwerkbeveiliging. In mijn vrije tijd haal ik energie en focus uit hardlopen en fietsen, en houd ik mezelf daarnaast up-to-date met de laatste innovaties in de IT-wereld. Na mijn studies Toegepaste Informatica zal ik nog verder schakelen naar de Master Industriële wetenschappen: Informatica aan UGent.</p>
 
 <h2 align="center"><u>Programming Languages</u></h2>
