@@ -22,7 +22,7 @@
   </a> 
 </p>
 
-<h2 align="center"><u>DevOps</u></h2>
+<h2 align="center"><u>Other Tools and Technologies</u></h2>
 
 <p align="center"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
